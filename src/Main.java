@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        MortgageCalc mg = new MortgageCalc();
+        System.out.println(mg.calculateMortgage());
     }
 }
