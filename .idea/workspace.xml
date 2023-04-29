@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8b413b1-c18e-488e-b5b9-017b4af46cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MortgageCalc.java" afterDir="false" />
+    <list default="true" id="d8b413b1-c18e-488e-b5b9-017b4af46cfd" name="Changes" comment="mortgage calc">
+      <change afterPath="$PROJECT_DIR$/src/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mortgage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MortgageCalc.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="task1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -70,10 +78,49 @@
       <workItem from="1680350031646" duration="630000" />
       <workItem from="1680957011753" duration="2108000" />
       <workItem from="1682146108442" duration="2246000" />
+      <workItem from="1682163967387" duration="1281000" />
+      <workItem from="1682606930227" duration="979000" />
+      <workItem from="1682692465258" duration="3244000" />
+      <workItem from="1682750206101" duration="4797000" />
     </task>
+    <task id="LOCAL-00001" summary="mortgage calc">
+      <created>1682164089615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682164089615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="task1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mortgage calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="mortgage calc" />
   </component>
 </project>
