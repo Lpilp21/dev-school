@@ -10,6 +10,10 @@ public class Dog extends Animal{
         return breed;
     }
 
+    public void setBreed(String breed) {
+        this.breed = breed;
+    }
+
     @Override
     public void speak(){
         System.out.println("Woof! Woof!");
