@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8b413b1-c18e-488e-b5b9-017b4af46cfd" name="Changes" comment="mortgage calc">
-      <change afterPath="$PROJECT_DIR$/src/Balance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mortgage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils.java" afterDir="false" />
+    <list default="true" id="d8b413b1-c18e-488e-b5b9-017b4af46cfd" name="Changes" comment="added Mortgage, Balance and Utils classes.">
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Balance.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MortgageCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mortgage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +29,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task1" />
+        <entry key="$PROJECT_DIR$" value="classes" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,6 +67,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +85,10 @@
       <workItem from="1682163967387" duration="1281000" />
       <workItem from="1682606930227" duration="979000" />
       <workItem from="1682692465258" duration="3244000" />
-      <workItem from="1682750206101" duration="4797000" />
+      <workItem from="1682750206101" duration="6158000" />
+      <workItem from="1682771851877" duration="1500000" />
+      <workItem from="1682778847646" duration="633000" />
+      <workItem from="1683294954067" duration="1138000" />
     </task>
     <task id="LOCAL-00001" summary="mortgage calc">
       <created>1682164089615</created>
@@ -90,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682164089615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added Mortgage, Balance and Utils classes.">
+      <created>1682755950126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682755950126</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +121,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="task1" />
+                        <option value="homework3" />
                       </list>
                     </value>
                   </entry>
@@ -121,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mortgage calc" />
-    <option name="LAST_COMMIT_MESSAGE" value="mortgage calc" />
+    <MESSAGE value="added Mortgage, Balance and Utils classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="added Mortgage, Balance and Utils classes." />
   </component>
 </project>
